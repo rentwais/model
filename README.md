@@ -25,6 +25,11 @@ La limitación de los datos disponibles hizo modificar el enfoque del proyecto y
 
 Se ha desarrollado un modelo de aprendizaje automático para predecir los precios de propiedades en Madrid capital usando RandomForestRegressor.
 
+Se encuentra todo más detallado en el siguiente articulo de Medium: 
+
+[RentwAIs: Predicción de precio de alquiler de vivienda](https://medium.com/@javier.lr/rentwais-predicci%C3%B3n-de-precio-de-alquiler-de-vivienda-d6c6b8a7214f) 
+
+---
 __Este repositorio contiene el modelo entrenado en python para calcular estimaciones de precio. Si busca la app para usar el modelo, está en el repositorio [/rentwais/app](https://github.com/rentwais/app).__
 
 ---
